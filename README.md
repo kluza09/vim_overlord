@@ -1,5 +1,3 @@
-# vim_overlord
-
 ## Quick Start
 1. Backup your current setup:
 
