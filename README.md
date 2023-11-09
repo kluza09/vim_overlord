@@ -35,3 +35,5 @@
 ## Known Issues
 
 * blend background color
+    Go to `~/.vim/bundle/onedark.vim/autoload/onedark.vim` and set `"cterm": "0"` in the line with `"background"` definition.
+    
