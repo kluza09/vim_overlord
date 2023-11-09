@@ -14,10 +14,17 @@
    git clone https://github.com/kluza09/vim_overlord ~/.vim
    ```
 
-2. Configure Vundle setup:
+2. Configure Vundle setup by running:
 
    ```bash
    ./config.sh
    ```
+
+3. Install required Plugins
+open `vim` and run following command:
+   ```vim
+   :PluginInstall
+   ```
+ 
 
      
