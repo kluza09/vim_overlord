@@ -12,18 +12,24 @@
    git clone https://github.com/kluza09/vim_overlord ~/.vim
    ```
 
-3. Configure Vundle setup by running:
+3. Move `.vimrc` to home directory
+   ```bash
+   mv ~/.vim/.vimrc ~/
+   ```
+
+4. Configure Plugin Manager by running:
 
    ```bash
+   cd ~/.vim
    ./config.sh
    ```
 
-4. Open `vim` and run following command:
+5. Open `vim` and run following command:
    ```vim
    :PluginInstall
    ```
 
-5. **Enjoy!**
+6. **Enjoy!**
  
  
 ## Known Issues
