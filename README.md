@@ -9,7 +9,7 @@
 2. Set up .vim directory:
 
    ```bash
-   git clone https://github.com/kluza09/vim_overlord ~/.vim
+   git clone --recursive https://github.com/kluza09/vim_overlord ~/.vim
    ```
 
 3. Move `.vimrc` to home directory
