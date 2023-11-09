@@ -24,7 +24,7 @@
    ./config.sh
    ```
 
-5. Open `vim` and run following command:
+5. Open `vim` (skip warnings) and run following command:
    ```vim
    :PluginInstall
    ```
