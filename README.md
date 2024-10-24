@@ -2,8 +2,7 @@
 1. Backup your current setup:
 
    ```bash
-   mv ~/.vim ~/.vim_bck
-   mv ~/.vimrc ~/.vimrc_bck
+   mv ~/.vim ~/.vim_bck ; mv ~/.vimrc ~/.vimrc_bck
    ```
 
 2. Set up .vim directory:
@@ -20,8 +19,7 @@
 4. Configure Plugin Manager by running:
 
    ```bash
-   cd ~/.vim
-   ./config.sh
+   cd ~/.vim ; ./config.sh
    ```
 
 5. Open `vim` (skip warnings) and run following command:
