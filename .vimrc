@@ -3,7 +3,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 
 syntax enable
 set nocompatible              " be iMproved, required
-set mouse=a
+"set mouse=a
 filetype off                  " required
 
 call vundle#begin()
